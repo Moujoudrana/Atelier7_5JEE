@@ -121,8 +121,8 @@ Methode3: (avec ClientSecret)
 <img width="960" alt="8" src="https://github.com/Moujoudrana/Atelier7_5JEE/assets/93864104/da23d4fe-1b47-4762-b50a-a54156789ac4">
 
 # Partie 2:
-      -Frontend avec thymeleaf
-![image](https://github.com/Moujoudrana/Atelier7_5JEE/assets/93864104/31eb43f7-0fc5-4d37-b38e-d9c2abc340c3
+# Frontend avec thymeleaf
+![image](https://github.com/Moujoudrana/Atelier7_5JEE/assets/93864104/5eec8bcf-f7cb-40d9-9ed6-1640f7aaff15)
 
 Github
 ![image](https://github.com/Moujoudrana/Atelier7_5JEE/assets/93864104/fc9f148c-c0dd-4f67-9856-10178e30de95)
@@ -151,7 +151,7 @@ Authentification avec keycloak
 Seuls les utilisateurs qui ont le role admin qui peuvent acceder
 ![image](https://github.com/Moujoudrana/Atelier7_5JEE/assets/93864104/18abf42b-2974-45fe-a617-1473eae3d7b3)
 
-      -Frontend avec Angular
+# Frontend avec Angular
 ![image](https://github.com/Moujoudrana/Atelier7_5JEE/assets/93864104/6241f34f-3b67-49b5-8427-9d27af91213f)
 
 Login
